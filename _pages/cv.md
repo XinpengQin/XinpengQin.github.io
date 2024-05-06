@@ -11,38 +11,30 @@ redirect_from:
 
 ## Education
 **B.S., University of Electronic Science and Technology of China (UESTC), Expected 2025**
-- **GPA:** 3.95/4.00, **Average Score:** 91.21/100,  **Ranking:** Top 8.7%,  **CET6:** 582
-- **Leadership Roles:** Chairman and Machine Learning Leader of School Technology Studio, Officer in the Student Union Federation
+- **GPA:** 3.99/4.00, **Average Score:** 92.41/100,  **Ranking:** 2/150,  **CET4:** 529 **CET6:** 464
+- **Hobbies:** Running, Football, Badminton
+- **Roles:** Member of School Technology Studio YOLO
 
-## Experience 
+## Academic Experience 
 **Research Assistant in State Key Laboratory of Internet of Things for Smart City, University of Macau**
-**Supervisor:** Assistant Professor Zhenning Li
-**Research Focus:** Efficient perception and decision-making in autonomous driving, human-like understanding and modeling in autonomous driving.
-- **Research 1:** Enhanced trajectory prediction through semantic scene annotation via LLM output and Chain-of-Thoughts Prompting. Proposed two new datasets for fine-tuning lightweight language models to address reasoning costs. This research has been submitted to the **ECAI 2024** Conference on Artificial Intelligence - *Co-first Author*.
-- **Research 2:** Developed a safety-aware trajectory prediction model integrating Responsibility-Sensitive Safety (RSS) metrics and introduced an Uncertainty-aware Graph Attention Network. This research has been submitted to **IEEE T-RO**, a top-tier robotics journal (editorial review passed) - *Co-first Author*.
-- **Research 3:** Integrated cognitive insights into the trajectory prediction task, with a focus on perceptual safety and dynamic decision-making during driving, and introduced the MoCAD trajectory prediction dataset. This research has been accepted by the top-tier Artificial Intelligence conference **IJCAI 2024**.
-- **Research 4:** Formulated a behavior-aware model for trajectory prediction, incorporating theories from human behavior and decision-making domains. This study has been accepted at the top-tier transportation conference **TRB 2024 (Oral Presentation)** - *Co-first Author*.
+**Supervisor:** Assistant Professor Li Li
+**Research Focus:** Large Language Models Compression, Lightweight Deployment of Large Language Models, Federated Learning
+- **Research 1:** We proposed GreenLLM, a framework for efficient pruning of Large Language Models (LLMs) designed for lightweight large-scale deployment. This framework integrates a physical hardware-based energy estimation scheme and a pruning rate generator that takes into account Space, Weight, and Power (SWaP), enabling effective deployment on resource-constrained edge devices. Experimental results indicate that GreenLLM reduces energy consumption by 34.1% and latency by 33.5%, with only a minimal impact on performance. This work has been accepted as a co-first authored paper at the CCF-B ranked international conference, **IWQoS**.
+- **Research 2:** We conducted research on Federated Learning (FL) and developed FedRank, a novel framework designed to optimize device selection for collaborative model training in FL environments. FedRank has demonstrated the ability to enhance model accuracy by 5.2% to 56.9% on datasets like MNIST and CIFAR-10, increase training convergence speed by 2.01 times, and reduce energy consumption by up to 40.1%. This work has been accepted as a third-author paper at the CCF-A ranked top international conference, **ICML**.
+- **Research 3:** We presented AutoPruner, a novel adaptive pruning framework that approaches the pruning of large language models (LLMs) as a generative task. This framework leverages a data-driven encoder-evaluator-decoder architecture to dynamically determine the optimal pruning configuration through gradient optimization, significantly reducing the need for manual pruning efforts. Our experiments demonstrate that AutoPruner surpasses recent model compression techniques such as LLM Runner, SliceGPT, and ShortGPT on datasets including Wikitext2, PTB, BoolQ, and PIQA, achieving an overall pruning rate of 20% while preserving 95% of the base model's performance. These research findings have been submitted as a co-first author paper to the CCF-B ranked international conference, **ECAI**.
+- **Research 4:** We are developing a method called EdgeLLM for power-friendly pruning and lightweight deployment of Large Language Models (LLMs). EdgeLLM begins by using an Offline Heuristic Pruning Rate Generator to establish a pruning configuration that balances performance needs with minimal power consumption. This configuration is then deployed to edge devices. An Online algorithm dynamically adjusts the voltage and frequency of these devices to further decrease power consumption and latency. We plan to submit our findings as co-first authors to the CCF-A ranked top international conference, **EuroSys**.
 
-## Main Projects
-**Web Security Detection System Based on Large Language Models and Graph Neural Networks**
-- Developed a web security detection system using LLMs and GNNs to achieve geographical IP location, security analysis, and visualization of web page sources.
-- Integrated a street-level IP geolocation framework based on graph neural networks with the Amap API for IP localization and visualization, deployed fine-tuned Chat-GLM for security analysis.
-- Authored engineering documentation and conducted comprehensive testing of the project, which is set to collaborate with enterprises to extend the system into a deployable product.
+## Projects
+**Design and Development of Image Processing Software**
+- We developed an image processing software on the Android platform, integrating and optimizing existing algorithms such as the MeanShift, Mean Blur, and bilinear interpolation to fulfill the software's basic functional requirements. Additionally, we employed MDC Android to enhance the software's UI aesthetics.
+- I was responsible for implementing and optimizing key image processing algorithms, including enhancing image grayscale processing through histogram equalization to improve image depth and contrast while preventing overall darkness or bias. Additionally, I refined the Mean Blur algorithm using the Gaussian Blur technique to more effectively eliminate image noise (excluding salt and pepper noise). I also handled the integration and testing of various project components.
 
-**Integrated Course Design: Adolescent Mental Health Rescue SOS System Based on Affective Computing**
-- Developed a mental health detection and analysis system for adolescents, providing early warnings and assistance.
-- Fine-tuned the BLIP2 model for multimodal sentiment analysis and used the Flask framework for backend development. This project was selected as an outstanding integrated course design project by the college.
-
-**"Dydai" Mutual Aid—Solving the "Last kilometer" Problem in Parcel Delivery**
-- Developed a WeChat mini-program platform based on mutual aid among residents for parcel collection to address the "last kilometer" challenge.
-- Authored PRD documents and designed product prototypes. This project is open-sourced on GitHub and has won multiple awards in college computer design competitions.
-
-**Web Platform Data Intelligent Analysis System Based on NLP and Web Crawling**
-- Created a data visualization platform using NLP and web crawling techniques to analyze comment sections of mainstream internet platforms (Bilibili, Zhihu, Douban, etc.).
-- Fine-tuned BERT for sentiment analysis and utilized Echarts and WordCloud for visualization. This project was successfully completed under the "Ginkgo Fruit Fund" at the University of Electronic Science and Technology.
+**Design and Implementation of a ZigBee-Based Wireless Communication System**
+- We developed a ZigBee-based wireless communication system using the STM32F103 development board. The system enables a data receiving terminal to communicate with multiple data acquisition terminals via ZigBee wireless technology, receiving data transmitted back from these terminals. Additionally, it allows for the transmission of configuration data to various data collection terminals for parameter adjustments.
+- I was responsible for designing the architecture for data collection and reception terminals; implementing data receiver code using Keil5 software and C language; designing finite state machines for data processing; and configuring ZigBee devices, including baud rate, channel, and mode.
 
 ## Awards
-- Chinese Colleges Computer Competition - Network Technology Challenge: **<font color="#c00000">National Grand Prize (First Place Nationally in Undergraduate Group)</font>**
+- Chinese Colleges Computer Competition - Network Technology Challenge: 
 - University of Electronic Science and Technology: **Excellent Student Scholarship** *2
 - Blue Bridge Cup Software Design Python Group: **Provincial Second Prize**
 - National Computer Design Competition: **Provincial Third Prize**
