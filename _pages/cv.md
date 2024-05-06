@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 **B.S., University of Electronic Science and Technology of China (UESTC), Expected 2025**
-- **GPA:** 3.99/4.00, **Average Score:** 92.41/100,  **Ranking:** 2/150,  **CET4:** 529 **CET6:** 464
+- **GPA:** 3.99/4.00,   **Average Score:** 92.41/100,    **Ranking:** 2/150,    **CET4:** 529,  **CET6:** 464
 - **Hobbies:** Running, Football, Badminton
 - **Roles:** Member of School Technology Studio YOLO
 
