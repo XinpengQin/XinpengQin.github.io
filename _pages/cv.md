@@ -34,13 +34,12 @@ redirect_from:
 - I was responsible for designing the architecture for data collection and reception terminals; implementing data receiver code using Keil5 software and C language; designing finite state machines for data processing; and configuring ZigBee devices, including baud rate, channel, and mode.
 
 ## Awards
-- Chinese Colleges Computer Competition - Network Technology Challenge: 
-- University of Electronic Science and Technology: **Excellent Student Scholarship** *2
-- Blue Bridge Cup Software Design Python Group: **Provincial Second Prize**
-- National Computer Design Competition: **Provincial Third Prize**
-- National E-commerce "Innovation and Entrepreneurship" Competition: **Provincial Third Prize**
-- University of Electronic Science and Technology "Ginkgo Fruit Fund": **One project successfully completed**
-- School of Information and Software Engineering, University of Electronic Science and Technology: **Award for Outstanding Studio**
+- Fourteenth National University Student Mathematics Competition: Provincial Second Prize
+- Second Prize in Group A at the Second Tsinghua Society Cup
+- Third Prize in the 14th Lanqiao Cup National Software and Information Technology Professionals Competition
+- Second Prize in the 6th Chuanzhi Cup University Competition
+- National Inspirational Scholarship *** 2**
+- University of Electronic Science and Technology of China First-Class Scholarship for Outstanding Students *** 2**
 
 ## Skills
 - **Language:** Python (Pytorch for Neural Networks, Flask for Web), C/C++, Java, Golang, SQL
