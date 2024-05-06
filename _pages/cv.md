@@ -42,9 +42,9 @@ redirect_from:
 - University of Electronic Science and Technology of China First-Class Scholarship for Outstanding Students *** 2**
 
 ## Skills
-- **Language:** Python (Pytorch for Neural Networks, Flask for Web), C/C++, Java, Golang, SQL
-- **Platform:** Linux, Windows, Mac, Tencent Cloud
-- **Techniques:** Deep Learning, Data Analysis, Academic Drawing, Product Design, Algorithm Design, System Architecture Design, Software Testing
-- **Abilities:** Public Speaking and Presentation, Team Coordination and Organization, Ability to solve complex engineering problems, Quick learner of new knowledge, Proficient in productivity tools such as Office, Obsidian, and Notion.
+- **Language:** C/C++, Java, Python, HTML, Verilog HDL, Assembly Language
+- **Platform:** Linux, STM32F103, Android, Windows
+- **Techniques:** Machine Learning, Data Analysis, System Architecture Design, Algorithm Design(Ranked in the top **5%** on Leetcode)
+- **Abilities:** Public Speaking and Presentation, Team Coordination and Organization, Ability to solve complex engineering problems, Quick learner of new knowledge, Proficient in productivity tools such as Office, Overleaf, and Notion.
 
 -----
